@@ -5,3 +5,5 @@
 - Perform ETL: extract relevant columns, transform data to proper format and populate the tables
 - Write SQL queries to extracted needed information and perform the python equivalent for each query
 
+
+![twitter](https://cloud.githubusercontent.com/assets/18108629/19714062/e604253e-9b10-11e6-85ec-eaab162a600a.jpg)
